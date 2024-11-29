@@ -280,3 +280,6 @@ Try a screenshot instead.
 
 API/.DS_Store
 .DS_Store
+.vscode
+.vscode/settings.json
+API/appsettings.json
